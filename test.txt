@@ -1,1 +1,15 @@
-lorem   ipsum
+Git testing
+
+for existing repo:
+FIRST CREATE A GIT REPO IN GITHUB
+
+
+// COMMANDS
+git init // INTIALIZE YOUR REPO
+git status // FOR CHECHKING STATUS
+git add . // FOR ADDING ALL FILES
+git commit -m "intial commit" // ADD COMMIT WITH  MESSAGE
+git log // FOR CHECKING STATUS
+git remote add origin https://github.com/jahangirripon/story.git
+git branch -M main // CREATE MAIN BRANCH
+git push -u origin main
