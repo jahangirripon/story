@@ -12,4 +12,6 @@ git commit -m "intial commit" // ADD COMMIT WITH  MESSAGE
 git log // FOR CHECKING STATUS
 git remote add origin https://github.com/jahangirripon/story.git
 git branch -M main // CREATE MAIN BRANCH
-git push -u origin main
+git push -u origin main // finally push to "main" branch
+ git rm --cached -r . // UNDO GIT ADD .
+touch .gitignore
