@@ -15,3 +15,9 @@ git branch -M main // CREATE MAIN BRANCH
 git push -u origin main // finally push to "main" branch
  git rm --cached -r . // UNDO GIT ADD .
 touch .gitignore
+
+
+branching
+
+git branch branch_name
+git checkout branch_name
